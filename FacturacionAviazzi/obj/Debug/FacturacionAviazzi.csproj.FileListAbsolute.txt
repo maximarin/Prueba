@@ -1,0 +1,11 @@
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\obj\Debug\FacturacionAviazzi.csprojResolveAssemblyReference.cache
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\obj\Debug\FacturacionAviazzi.Properties.Resources.resources
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\obj\Debug\FacturacionAviazzi.csproj.GenerateResource.Cache
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\bin\Debug\FacturacionAviazzi.exe.config
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\bin\Debug\FacturacionAviazzi.exe
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\bin\Debug\FacturacionAviazzi.pdb
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\bin\Debug\Formularios.exe
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\bin\Debug\Formularios.pdb
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\bin\Debug\Formularios.exe.config
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\obj\Debug\FacturacionAviazzi.exe
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\FacturacionAviazzi\obj\Debug\FacturacionAviazzi.pdb

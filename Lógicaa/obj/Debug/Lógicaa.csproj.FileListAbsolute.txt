@@ -1,0 +1,9 @@
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\obj\Debug\Lógicaa.csprojResolveAssemblyReference.cache
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\obj\Debug\Lógicaa.Properties.Resources.resources
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\obj\Debug\Lógicaa.csproj.GenerateResource.Cache
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\bin\Debug\Lógicaa.dll
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\bin\Debug\Lógicaa.pdb
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\obj\Debug\Lógicaa.dll
+C:\Users\maxi_\Documents\Visual Studio 2017\Projects\FacturacionAviazzi\Lógicaa\obj\Debug\Lógicaa.pdb

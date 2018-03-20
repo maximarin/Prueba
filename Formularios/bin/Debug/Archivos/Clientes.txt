@@ -1,0 +1,1 @@
+[{"NombreApellido":"Maximiliano","Codigo":1,"Localidad":"Rafaela","Direccion":"sdsda","Telefono":"433192","FechaEliminacion":"0001-01-01T00:00:00","Mail":"2123123132"},{"NombreApellido":"Mariano Aviazzi","Codigo":2,"Localidad":"Rafaela","Direccion":"Dopazo","Telefono":"433196","FechaEliminacion":"0001-01-01T00:00:00","Mail":"mariano@gmail.com"}]
