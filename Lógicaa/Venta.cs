@@ -21,7 +21,7 @@ namespace Lógicaa
         public double Descuento { get; set; }
         public double Total { get; set; }
         public DateTime Fecha { get; set; }
-        public DateTime FechaEliminacion { get; set; }
+        
         public Venta()
         {
             List<string> ListaProductos = new List<string>();
